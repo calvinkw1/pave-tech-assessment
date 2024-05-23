@@ -1,0 +1,2 @@
+module CurrencyFetcherHelper
+end
